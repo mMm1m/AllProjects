@@ -1,0 +1,3 @@
+/home/max/All_Projects/Algorithms_and_DS/CSES/Geometry/PolygonLattice Points/cmake-build-debug/CMakeFiles/PolygonLattice_Points.dir
+/home/max/All_Projects/Algorithms_and_DS/CSES/Geometry/PolygonLattice Points/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/max/All_Projects/Algorithms_and_DS/CSES/Geometry/PolygonLattice Points/cmake-build-debug/CMakeFiles/rebuild_cache.dir

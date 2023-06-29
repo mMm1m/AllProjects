@@ -1,0 +1,3 @@
+/home/max/All_Projects/Algorithms_and_DS/CSES/Dynamic Programming/Rectangle Cutting/cmake-build-debug/CMakeFiles/Rectangle_Cutting.dir
+/home/max/All_Projects/Algorithms_and_DS/CSES/Dynamic Programming/Rectangle Cutting/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/max/All_Projects/Algorithms_and_DS/CSES/Dynamic Programming/Rectangle Cutting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
