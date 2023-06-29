@@ -1,0 +1,3 @@
+/home/max/CLionProjects/GCD on Blackboard/cmake-build-debug/CMakeFiles/GCD_on_Blackboard.dir
+/home/max/CLionProjects/GCD on Blackboard/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/max/CLionProjects/GCD on Blackboard/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,27 @@
+# ninja log v5
+0	2811	1675675868509255730	CMakeFiles/MinimumEuclidianDistance.dir/main.cpp.o	dbdf39cca65b23d4
+2813	2911	1675675868609256438	MinimumEuclidianDistance	d8bdb4dd3499210e
+1	2562	1675676385848913705	CMakeFiles/MinimumEuclidianDistance.dir/main.cpp.o	dbdf39cca65b23d4
+2563	2671	1675676385960914497	MinimumEuclidianDistance	d8bdb4dd3499210e
+1	2420	1675676463753464653	CMakeFiles/MinimumEuclidianDistance.dir/main.cpp.o	dbdf39cca65b23d4
+2420	2522	1675676463857465388	MinimumEuclidianDistance	d8bdb4dd3499210e
+2	2494	1675676503717747291	CMakeFiles/MinimumEuclidianDistance.dir/main.cpp.o	dbdf39cca65b23d4
+2494	2602	1675676503825748055	MinimumEuclidianDistance	d8bdb4dd3499210e
+1	2378	1675676550306076781	CMakeFiles/MinimumEuclidianDistance.dir/main.cpp.o	dbdf39cca65b23d4
+2378	2475	1675676550402077460	MinimumEuclidianDistance	d8bdb4dd3499210e
+1	2249	1675676598026414283	CMakeFiles/MinimumEuclidianDistance.dir/main.cpp.o	dbdf39cca65b23d4
+2249	2341	1675676598118414933	MinimumEuclidianDistance	d8bdb4dd3499210e
+1	2221	1675676658590923346	CMakeFiles/MinimumEuclidianDistance.dir/main.cpp.o	dbdf39cca65b23d4
+2221	2317	1675676658686924272	MinimumEuclidianDistance	d8bdb4dd3499210e
+1	2496	1675676726315566452	CMakeFiles/MinimumEuclidianDistance.dir/main.cpp.o	dbdf39cca65b23d4
+2496	2653	1675676726475567950	MinimumEuclidianDistance	d8bdb4dd3499210e
+1	2161	1675676805580296686	CMakeFiles/MinimumEuclidianDistance.dir/main.cpp.o	dbdf39cca65b23d4
+2161	2255	1675676805672297521	MinimumEuclidianDistance	d8bdb4dd3499210e
+1	2818	1675676999153998026	CMakeFiles/MinimumEuclidianDistance.dir/main.cpp.o	dbdf39cca65b23d4
+2819	3035	1675676999369999870	MinimumEuclidianDistance	d8bdb4dd3499210e
+3	2553	1675685396298154974	CMakeFiles/MinimumEuclidianDistance.dir/main.cpp.o	dbdf39cca65b23d4
+2553	2668	1675685396410155734	MinimumEuclidianDistance	d8bdb4dd3499210e
+1	1928	1675685455210556043	CMakeFiles/MinimumEuclidianDistance.dir/main.cpp.o	dbdf39cca65b23d4
+1928	2041	1675685455322556808	MinimumEuclidianDistance	d8bdb4dd3499210e
+1	1899	1675685527507050736	CMakeFiles/MinimumEuclidianDistance.dir/main.cpp.o	dbdf39cca65b23d4
+1899	1999	1675685527607051422	MinimumEuclidianDistance	d8bdb4dd3499210e

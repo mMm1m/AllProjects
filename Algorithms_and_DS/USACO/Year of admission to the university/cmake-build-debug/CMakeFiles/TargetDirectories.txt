@@ -1,0 +1,3 @@
+/home/max/CLionProjects/Year of admission to the university/cmake-build-debug/CMakeFiles/Year_of_admission_to_the_university.dir
+/home/max/CLionProjects/Year of admission to the university/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/max/CLionProjects/Year of admission to the university/cmake-build-debug/CMakeFiles/rebuild_cache.dir

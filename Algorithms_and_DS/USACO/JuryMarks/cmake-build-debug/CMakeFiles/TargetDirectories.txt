@@ -1,0 +1,3 @@
+/home/max/CLionProjects/JuryMarks/cmake-build-debug/CMakeFiles/JuryMarks.dir
+/home/max/CLionProjects/JuryMarks/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/max/CLionProjects/JuryMarks/cmake-build-debug/CMakeFiles/rebuild_cache.dir

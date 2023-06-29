@@ -1,0 +1,13 @@
+# ninja log v5
+0	3132	1670886423794698815	CMakeFiles/StringSorting.dir/main.cpp.o	2c460fa945abbeb0
+3133	3240	1670886423902699494	StringSorting	dac59cced005760b
+3	2371	1670886836541295083	CMakeFiles/StringSorting.dir/main.cpp.o	2c460fa945abbeb0
+2371	2468	1670886836641295713	StringSorting	dac59cced005760b
+1	2639	1670887220295707542	CMakeFiles/StringSorting.dir/main.cpp.o	2c460fa945abbeb0
+2640	2733	1670887220391708146	StringSorting	dac59cced005760b
+1	2027	1670887335944434410	CMakeFiles/StringSorting.dir/main.cpp.o	2c460fa945abbeb0
+2027	2117	1670887336032434963	StringSorting	dac59cced005760b
+1	2434	1670887371504657906	CMakeFiles/StringSorting.dir/main.cpp.o	2c460fa945abbeb0
+2434	2528	1670887371596658484	StringSorting	dac59cced005760b
+1	2474	1670888183424349778	CMakeFiles/StringSorting.dir/main.cpp.o	2c460fa945abbeb0
+2474	2580	1670888183528350334	StringSorting	dac59cced005760b

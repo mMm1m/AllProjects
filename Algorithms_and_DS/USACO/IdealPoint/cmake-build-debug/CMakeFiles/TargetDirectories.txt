@@ -1,0 +1,3 @@
+/home/max/CLionProjects/IdealPoint/cmake-build-debug/CMakeFiles/IdealPoint.dir
+/home/max/CLionProjects/IdealPoint/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/max/CLionProjects/IdealPoint/cmake-build-debug/CMakeFiles/rebuild_cache.dir

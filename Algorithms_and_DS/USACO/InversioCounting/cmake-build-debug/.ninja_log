@@ -1,0 +1,15 @@
+# ninja log v5
+0	2349	1674391230875065394	CMakeFiles/InversioCounting.dir/main.cpp.o	a42f47d4d9dccad9
+2350	2455	1674391230983068474	InversioCounting	dd9a7e0cb9b54c2b
+2	2007	1674391347782218579	CMakeFiles/InversioCounting.dir/main.cpp.o	a42f47d4d9dccad9
+2007	2111	1674391347882221135	InversioCounting	dd9a7e0cb9b54c2b
+1	1921	1674391384627145398	CMakeFiles/InversioCounting.dir/main.cpp.o	a42f47d4d9dccad9
+1922	2013	1674391384715147576	InversioCounting	dd9a7e0cb9b54c2b
+1	2319	1674393251124824001	CMakeFiles/InversioCounting.dir/main.cpp.o	a42f47d4d9dccad9
+2319	2454	1674393251260824643	InversioCounting	dd9a7e0cb9b54c2b
+1	1910	1674393423485762743	CMakeFiles/InversioCounting.dir/main.cpp.o	a42f47d4d9dccad9
+1910	2008	1674393423581763328	InversioCounting	dd9a7e0cb9b54c2b
+6	1217	1674399509728206054	CMakeFiles/InversioCounting.dir/main.cpp.o	a42f47d4d9dccad9
+1217	1369	1674399509880207967	InversioCounting	dd9a7e0cb9b54c2b
+1	593	1674399529588453886	CMakeFiles/InversioCounting.dir/main.cpp.o	a42f47d4d9dccad9
+593	686	1674399529680455025	InversioCounting	dd9a7e0cb9b54c2b

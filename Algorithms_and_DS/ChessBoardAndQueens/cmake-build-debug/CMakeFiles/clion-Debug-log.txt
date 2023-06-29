@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /home/max/All_Projects/Algorithms_and_DS/ChessBoardAndQueens Select CMakeLists.txt
