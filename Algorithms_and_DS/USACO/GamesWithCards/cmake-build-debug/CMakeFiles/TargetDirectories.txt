@@ -1,3 +1,0 @@
-/home/max/CLionProjects/GamesWithCards/cmake-build-debug/CMakeFiles/GamesWithCards.dir
-/home/max/CLionProjects/GamesWithCards/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/GamesWithCards/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/home/max/CLionProjects/DividingTheRuler_Example/cmake-build-debug/CMakeFiles/DividingTheRuler_Example.dir
-/home/max/CLionProjects/DividingTheRuler_Example/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/DividingTheRuler_Example/cmake-build-debug/CMakeFiles/rebuild_cache.dir

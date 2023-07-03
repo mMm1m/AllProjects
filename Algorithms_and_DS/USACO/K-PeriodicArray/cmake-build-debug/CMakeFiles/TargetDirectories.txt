@@ -1,3 +1,0 @@
-/home/max/CLionProjects/K-PeriodicArray/cmake-build-debug/CMakeFiles/K_PeriodicArray.dir
-/home/max/CLionProjects/K-PeriodicArray/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/K-PeriodicArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir

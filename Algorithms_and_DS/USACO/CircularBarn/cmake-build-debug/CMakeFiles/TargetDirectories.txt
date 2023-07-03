@@ -1,3 +1,0 @@
-/home/max/CLionProjects/CircularBarn/cmake-build-debug/CMakeFiles/CircularBarn.dir
-/home/max/CLionProjects/CircularBarn/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/CircularBarn/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/home/max/CLionProjects/MessageRoute/cmake-build-debug/CMakeFiles/MessageRoute.dir
-/home/max/CLionProjects/MessageRoute/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/MessageRoute/cmake-build-debug/CMakeFiles/rebuild_cache.dir

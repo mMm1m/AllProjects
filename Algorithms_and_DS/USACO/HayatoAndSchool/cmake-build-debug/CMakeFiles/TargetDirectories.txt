@@ -1,3 +1,0 @@
-/home/max/CLionProjects/HayatoAndSchool/cmake-build-debug/CMakeFiles/HayatoAndSchool.dir
-/home/max/CLionProjects/HayatoAndSchool/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/HayatoAndSchool/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/home/max/CLionProjects/Don't Be Last! /cmake-build-debug/CMakeFiles/Don_t_Be_Last__.dir
-/home/max/CLionProjects/Don't Be Last! /cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/Don't Be Last! /cmake-build-debug/CMakeFiles/rebuild_cache.dir

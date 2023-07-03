@@ -1,3 +1,0 @@
-/home/max/CLionProjects/MoneySums/cmake-build-debug/CMakeFiles/MoneySums.dir
-/home/max/CLionProjects/MoneySums/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/MoneySums/cmake-build-debug/CMakeFiles/rebuild_cache.dir

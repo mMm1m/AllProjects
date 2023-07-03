@@ -1,3 +1,0 @@
-/home/max/CLionProjects/QAQ/cmake-build-debug/CMakeFiles/QAQ.dir
-/home/max/CLionProjects/QAQ/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/QAQ/cmake-build-debug/CMakeFiles/rebuild_cache.dir

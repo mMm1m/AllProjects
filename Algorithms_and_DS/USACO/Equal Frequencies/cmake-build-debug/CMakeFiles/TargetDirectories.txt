@@ -1,3 +1,0 @@
-/home/max/CLionProjects/Equal Frequencies/cmake-build-debug/CMakeFiles/Equal_Frequencies.dir
-/home/max/CLionProjects/Equal Frequencies/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/Equal Frequencies/cmake-build-debug/CMakeFiles/rebuild_cache.dir

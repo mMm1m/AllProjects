@@ -1,3 +1,0 @@
-/home/max/CLionProjects/ Double Lexicographically Minimum/cmake-build-debug/CMakeFiles/_Double_Lexicographically_Minimum.dir
-/home/max/CLionProjects/ Double Lexicographically Minimum/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/ Double Lexicographically Minimum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

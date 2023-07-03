@@ -1,3 +1,0 @@
-/home/max/CLionProjects/LeetCode Polygon/cmake-build-debug/CMakeFiles/LeetCode_Polygon.dir
-/home/max/CLionProjects/LeetCode Polygon/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/LeetCode Polygon/cmake-build-debug/CMakeFiles/rebuild_cache.dir

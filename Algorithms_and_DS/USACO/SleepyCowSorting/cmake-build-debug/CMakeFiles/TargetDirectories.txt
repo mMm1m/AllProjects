@@ -1,3 +1,0 @@
-/home/max/CLionProjects/SleepyCowSorting/cmake-build-debug/CMakeFiles/SleepyCowSorting.dir
-/home/max/CLionProjects/SleepyCowSorting/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/SleepyCowSorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir

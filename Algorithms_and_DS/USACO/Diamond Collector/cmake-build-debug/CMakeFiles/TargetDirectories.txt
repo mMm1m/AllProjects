@@ -1,3 +1,0 @@
-/home/max/CLionProjects/Diamond Collector/cmake-build-debug/CMakeFiles/Diamond_Collector.dir
-/home/max/CLionProjects/Diamond Collector/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/Diamond Collector/cmake-build-debug/CMakeFiles/rebuild_cache.dir

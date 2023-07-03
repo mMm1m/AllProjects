@@ -1,3 +1,0 @@
-/home/max/CLionProjects/Domino on Windowsill/cmake-build-debug/CMakeFiles/Domino_on_Windowsill.dir
-/home/max/CLionProjects/Domino on Windowsill/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/Domino on Windowsill/cmake-build-debug/CMakeFiles/rebuild_cache.dir

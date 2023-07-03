@@ -1,3 +1,0 @@
-/home/max/CLionProjects/PokerHands/cmake-build-debug/CMakeFiles/PokerHands.dir
-/home/max/CLionProjects/PokerHands/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/PokerHands/cmake-build-debug/CMakeFiles/rebuild_cache.dir

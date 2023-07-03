@@ -1,3 +1,0 @@
-/home/max/CLionProjects/GrayCode/cmake-build-debug/CMakeFiles/GrayCode.dir
-/home/max/CLionProjects/GrayCode/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/GrayCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir

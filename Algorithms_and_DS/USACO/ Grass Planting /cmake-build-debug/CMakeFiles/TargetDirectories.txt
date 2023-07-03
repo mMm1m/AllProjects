@@ -1,3 +1,0 @@
-/home/max/CLionProjects/ Grass Planting /cmake-build-debug/CMakeFiles/_Grass_Planting_.dir
-/home/max/CLionProjects/ Grass Planting /cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/ Grass Planting /cmake-build-debug/CMakeFiles/rebuild_cache.dir

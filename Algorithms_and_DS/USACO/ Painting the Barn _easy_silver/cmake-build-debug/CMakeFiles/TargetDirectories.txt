@@ -1,3 +1,0 @@
-/home/max/CLionProjects/ Painting the Barn _easy_silver/cmake-build-debug/CMakeFiles/_Painting_the_Barn__easy_silver.dir
-/home/max/CLionProjects/ Painting the Barn _easy_silver/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/ Painting the Barn _easy_silver/cmake-build-debug/CMakeFiles/rebuild_cache.dir

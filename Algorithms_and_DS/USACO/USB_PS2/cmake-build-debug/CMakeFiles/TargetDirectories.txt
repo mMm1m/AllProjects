@@ -1,3 +1,0 @@
-/home/max/CLionProjects/USB_PS2/cmake-build-debug/CMakeFiles/USB_PS2.dir
-/home/max/CLionProjects/USB_PS2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/USB_PS2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

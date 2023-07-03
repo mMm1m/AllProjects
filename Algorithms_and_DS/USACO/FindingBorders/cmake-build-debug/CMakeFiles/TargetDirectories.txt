@@ -1,3 +1,0 @@
-/home/max/CLionProjects/FindingBorders/cmake-build-debug/CMakeFiles/FindingBorders.dir
-/home/max/CLionProjects/FindingBorders/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/FindingBorders/cmake-build-debug/CMakeFiles/rebuild_cache.dir

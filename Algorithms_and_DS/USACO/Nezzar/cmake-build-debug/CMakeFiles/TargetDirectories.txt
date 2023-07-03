@@ -1,3 +1,0 @@
-/home/max/CLionProjects/Nezzar/cmake-build-debug/CMakeFiles/Nezzar.dir
-/home/max/CLionProjects/Nezzar/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/Nezzar/cmake-build-debug/CMakeFiles/rebuild_cache.dir

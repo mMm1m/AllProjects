@@ -1,3 +1,0 @@
-/home/max/CLionProjects/NestedRangesCount/cmake-build-debug/CMakeFiles/NestedRangesCount.dir
-/home/max/CLionProjects/NestedRangesCount/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/NestedRangesCount/cmake-build-debug/CMakeFiles/rebuild_cache.dir

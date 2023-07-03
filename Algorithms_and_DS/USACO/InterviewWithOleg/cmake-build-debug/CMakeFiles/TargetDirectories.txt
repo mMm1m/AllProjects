@@ -1,3 +1,0 @@
-/home/max/CLionProjects/InterviewWithOleg/cmake-build-debug/CMakeFiles/InterviewWithOleg.dir
-/home/max/CLionProjects/InterviewWithOleg/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/InterviewWithOleg/cmake-build-debug/CMakeFiles/rebuild_cache.dir

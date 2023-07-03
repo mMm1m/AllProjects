@@ -1,3 +1,0 @@
-/home/max/CLionProjects/ Maximum Increase/cmake-build-debug/CMakeFiles/_Maximum_Increase.dir
-/home/max/CLionProjects/ Maximum Increase/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/ Maximum Increase/cmake-build-debug/CMakeFiles/rebuild_cache.dir

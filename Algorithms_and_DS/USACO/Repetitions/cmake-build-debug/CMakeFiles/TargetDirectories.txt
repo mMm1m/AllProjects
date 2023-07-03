@@ -1,3 +1,0 @@
-/home/max/CLionProjects/Repetitions/cmake-build-debug/CMakeFiles/Repetitions.dir
-/home/max/CLionProjects/Repetitions/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/Repetitions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

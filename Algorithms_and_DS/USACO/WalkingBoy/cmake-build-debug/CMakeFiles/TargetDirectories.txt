@@ -1,3 +1,0 @@
-/home/max/CLionProjects/WalkingBoy/cmake-build-debug/CMakeFiles/WalkingBoy.dir
-/home/max/CLionProjects/WalkingBoy/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/WalkingBoy/cmake-build-debug/CMakeFiles/rebuild_cache.dir

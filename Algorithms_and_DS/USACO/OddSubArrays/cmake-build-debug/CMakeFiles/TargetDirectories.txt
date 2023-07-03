@@ -1,3 +1,0 @@
-/home/max/CLionProjects/OddSubArrays/cmake-build-debug/CMakeFiles/OddSubArrays.dir
-/home/max/CLionProjects/OddSubArrays/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/OddSubArrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/home/max/CLionProjects/MaximumDistance/cmake-build-debug/CMakeFiles/MaximumDistance.dir
-/home/max/CLionProjects/MaximumDistance/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/MaximumDistance/cmake-build-debug/CMakeFiles/rebuild_cache.dir

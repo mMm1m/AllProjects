@@ -1,3 +1,0 @@
-/home/max/CLionProjects/Even More Odd Photos /cmake-build-debug/CMakeFiles/Even_More_Odd_Photos_.dir
-/home/max/CLionProjects/Even More Odd Photos /cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/Even More Odd Photos /cmake-build-debug/CMakeFiles/rebuild_cache.dir

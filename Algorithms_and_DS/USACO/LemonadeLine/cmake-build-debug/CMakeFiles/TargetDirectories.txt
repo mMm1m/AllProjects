@@ -1,3 +1,0 @@
-/home/max/CLionProjects/LemonadeLine/cmake-build-debug/CMakeFiles/LemonadeLine.dir
-/home/max/CLionProjects/LemonadeLine/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/LemonadeLine/cmake-build-debug/CMakeFiles/rebuild_cache.dir

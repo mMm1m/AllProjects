@@ -1,3 +1,0 @@
-/home/max/CLionProjects/ Premutation/cmake-build-debug/CMakeFiles/_Premutation.dir
-/home/max/CLionProjects/ Premutation/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/ Premutation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

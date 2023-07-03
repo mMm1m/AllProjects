@@ -1,3 +1,0 @@
-/home/max/CLionProjects/TasyaAndCubes/cmake-build-debug/CMakeFiles/TasyaAndCubes.dir
-/home/max/CLionProjects/TasyaAndCubes/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/TasyaAndCubes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

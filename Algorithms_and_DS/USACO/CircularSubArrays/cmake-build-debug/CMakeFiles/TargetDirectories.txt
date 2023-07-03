@@ -1,3 +1,0 @@
-/home/max/CLionProjects/CircularSubArrays/cmake-build-debug/CMakeFiles/CircularSubArrays.dir
-/home/max/CLionProjects/CircularSubArrays/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/CircularSubArrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/home/max/CLionProjects/MaxMinA/cmake-build-debug/CMakeFiles/MaxMinA.dir
-/home/max/CLionProjects/MaxMinA/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/MaxMinA/cmake-build-debug/CMakeFiles/rebuild_cache.dir

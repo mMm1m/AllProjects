@@ -1,3 +1,0 @@
-/home/max/CLionProjects/Why Did the Cow Cross the Road II /cmake-build-debug/CMakeFiles/Why_Did_the_Cow_Cross_the_Road_II_.dir
-/home/max/CLionProjects/Why Did the Cow Cross the Road II /cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/Why Did the Cow Cross the Road II /cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/home/max/CLionProjects/GCDonBlackboard/cmake-build-debug/CMakeFiles/GCDonBlackboard.dir
-/home/max/CLionProjects/GCDonBlackboard/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/GCDonBlackboard/cmake-build-debug/CMakeFiles/rebuild_cache.dir

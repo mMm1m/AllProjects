@@ -1,3 +1,0 @@
-/home/max/CLionProjects/Haybale Stacking/cmake-build-debug/CMakeFiles/Haybale_Stacking.dir
-/home/max/CLionProjects/Haybale Stacking/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/Haybale Stacking/cmake-build-debug/CMakeFiles/rebuild_cache.dir

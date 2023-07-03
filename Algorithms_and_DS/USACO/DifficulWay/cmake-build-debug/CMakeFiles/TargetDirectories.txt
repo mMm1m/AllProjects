@@ -1,3 +1,0 @@
-/home/max/CLionProjects/DifficulWay/cmake-build-debug/CMakeFiles/DifficulWay.dir
-/home/max/CLionProjects/DifficulWay/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/DifficulWay/cmake-build-debug/CMakeFiles/rebuild_cache.dir

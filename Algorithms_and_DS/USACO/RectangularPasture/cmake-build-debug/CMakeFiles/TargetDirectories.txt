@@ -1,3 +1,0 @@
-/home/max/CLionProjects/RectangularPasture/cmake-build-debug/CMakeFiles/RectangularPasture.dir
-/home/max/CLionProjects/RectangularPasture/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/RectangularPasture/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/home/max/CLionProjects/StaticRangeSum/cmake-build-debug/CMakeFiles/StaticRangeSum.dir
-/home/max/CLionProjects/StaticRangeSum/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/StaticRangeSum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/home/max/CLionProjects/Subrectangle Guess/cmake-build-debug/CMakeFiles/Subrectangle_Guess.dir
-/home/max/CLionProjects/Subrectangle Guess/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/Subrectangle Guess/cmake-build-debug/CMakeFiles/rebuild_cache.dir

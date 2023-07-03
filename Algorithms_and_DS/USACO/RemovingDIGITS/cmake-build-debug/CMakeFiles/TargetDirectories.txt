@@ -1,3 +1,0 @@
-/home/max/CLionProjects/RemovingDIGITS/cmake-build-debug/CMakeFiles/RemovingDIGITS.dir
-/home/max/CLionProjects/RemovingDIGITS/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/RemovingDIGITS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

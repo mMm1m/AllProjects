@@ -1,3 +1,0 @@
-/home/max/CLionProjects/Restoring the Duration of Tasks/cmake-build-debug/CMakeFiles/Restoring_the_Duration_of_Tasks.dir
-/home/max/CLionProjects/Restoring the Duration of Tasks/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/Restoring the Duration of Tasks/cmake-build-debug/CMakeFiles/rebuild_cache.dir

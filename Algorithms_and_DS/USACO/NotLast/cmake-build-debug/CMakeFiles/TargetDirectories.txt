@@ -1,3 +1,0 @@
-/home/max/CLionProjects/NotLast/cmake-build-debug/CMakeFiles/NotLast.dir
-/home/max/CLionProjects/NotLast/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/NotLast/cmake-build-debug/CMakeFiles/rebuild_cache.dir

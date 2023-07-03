@@ -1,3 +1,0 @@
-/home/max/CLionProjects/Taming the Herd/cmake-build-debug/CMakeFiles/Taming_the_Herd.dir
-/home/max/CLionProjects/Taming the Herd/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/Taming the Herd/cmake-build-debug/CMakeFiles/rebuild_cache.dir

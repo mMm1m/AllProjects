@@ -1,3 +1,0 @@
-/home/max/CLionProjects/PromocodesWithErrors/cmake-build-debug/CMakeFiles/PromocodesWithErrors.dir
-/home/max/CLionProjects/PromocodesWithErrors/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/PromocodesWithErrors/cmake-build-debug/CMakeFiles/rebuild_cache.dir

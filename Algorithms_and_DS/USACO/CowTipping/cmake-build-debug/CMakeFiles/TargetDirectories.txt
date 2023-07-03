@@ -1,3 +1,0 @@
-/home/max/CLionProjects/CowTipping/cmake-build-debug/CMakeFiles/CowTipping.dir
-/home/max/CLionProjects/CowTipping/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/CowTipping/cmake-build-debug/CMakeFiles/rebuild_cache.dir

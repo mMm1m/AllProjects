@@ -1,3 +1,0 @@
-/home/max/CLionProjects/ Cowntact Tracing /cmake-build-debug/CMakeFiles/_Cowntact_Tracing_.dir
-/home/max/CLionProjects/ Cowntact Tracing /cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/ Cowntact Tracing /cmake-build-debug/CMakeFiles/rebuild_cache.dir

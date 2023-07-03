@@ -1,3 +1,0 @@
-/home/max/CLionProjects/GCD_problem/cmake-build-debug/CMakeFiles/GCD_problem.dir
-/home/max/CLionProjects/GCD_problem/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/GCD_problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

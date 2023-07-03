@@ -1,3 +1,0 @@
-/home/max/CLionProjects/Guess_The_K-th_Zero/cmake-build-debug/CMakeFiles/Guess_The_K_th_Zero.dir
-/home/max/CLionProjects/Guess_The_K-th_Zero/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/Guess_The_K-th_Zero/cmake-build-debug/CMakeFiles/rebuild_cache.dir

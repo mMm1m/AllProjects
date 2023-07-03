@@ -1,3 +1,0 @@
-/home/max/CLionProjects/GardenerAndKapibaras/cmake-build-debug/CMakeFiles/GardenerAndKapibaras.dir
-/home/max/CLionProjects/GardenerAndKapibaras/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/GardenerAndKapibaras/cmake-build-debug/CMakeFiles/rebuild_cache.dir

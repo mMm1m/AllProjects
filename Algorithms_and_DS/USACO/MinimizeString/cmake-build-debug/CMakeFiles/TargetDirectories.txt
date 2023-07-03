@@ -1,3 +1,0 @@
-/home/max/CLionProjects/MinimizeString/cmake-build-debug/CMakeFiles/MinimizeString.dir
-/home/max/CLionProjects/MinimizeString/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/MinimizeString/cmake-build-debug/CMakeFiles/rebuild_cache.dir

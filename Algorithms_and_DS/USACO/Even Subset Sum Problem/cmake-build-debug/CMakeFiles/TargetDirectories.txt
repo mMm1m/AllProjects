@@ -1,3 +1,0 @@
-/home/max/CLionProjects/Even Subset Sum Problem/cmake-build-debug/CMakeFiles/Even_Subset_Sum_Problem.dir
-/home/max/CLionProjects/Even Subset Sum Problem/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/Even Subset Sum Problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

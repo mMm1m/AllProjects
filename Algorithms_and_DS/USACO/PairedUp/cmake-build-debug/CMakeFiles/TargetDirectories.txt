@@ -1,3 +1,0 @@
-/home/max/CLionProjects/PairedUp/cmake-build-debug/CMakeFiles/PairedUp.dir
-/home/max/CLionProjects/PairedUp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/PairedUp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

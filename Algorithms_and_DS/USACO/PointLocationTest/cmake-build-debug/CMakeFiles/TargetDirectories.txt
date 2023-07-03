@@ -1,3 +1,0 @@
-/home/max/CLionProjects/PointLocationTest/cmake-build-debug/CMakeFiles/PointLocationTest.dir
-/home/max/CLionProjects/PointLocationTest/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/PointLocationTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

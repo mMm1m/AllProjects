@@ -1,3 +1,0 @@
-/home/max/CLionProjects/MEXimization/cmake-build-debug/CMakeFiles/MEXimization.dir
-/home/max/CLionProjects/MEXimization/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/MEXimization/cmake-build-debug/CMakeFiles/rebuild_cache.dir

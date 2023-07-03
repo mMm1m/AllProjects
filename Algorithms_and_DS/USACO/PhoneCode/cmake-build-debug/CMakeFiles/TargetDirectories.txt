@@ -1,3 +1,0 @@
-/home/max/CLionProjects/PhoneCode/cmake-build-debug/CMakeFiles/PhoneCode.dir
-/home/max/CLionProjects/PhoneCode/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/PhoneCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir

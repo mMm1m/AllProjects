@@ -1,3 +1,0 @@
-/home/max/CLionProjects/Jumbo Extra Cheese 2/cmake-build-debug/CMakeFiles/Jumbo_Extra_Cheese_2.dir
-/home/max/CLionProjects/Jumbo Extra Cheese 2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/Jumbo Extra Cheese 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

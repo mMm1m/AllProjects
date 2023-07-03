@@ -1,3 +1,0 @@
-/home/max/CLionProjects/LastYearSubstring/cmake-build-debug/CMakeFiles/LastYearSubstring.dir
-/home/max/CLionProjects/LastYearSubstring/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/LastYearSubstring/cmake-build-debug/CMakeFiles/rebuild_cache.dir

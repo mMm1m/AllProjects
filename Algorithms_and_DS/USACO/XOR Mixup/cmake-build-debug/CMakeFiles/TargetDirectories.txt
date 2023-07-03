@@ -1,3 +1,0 @@
-/home/max/CLionProjects/XOR Mixup/cmake-build-debug/CMakeFiles/XOR_Mixup.dir
-/home/max/CLionProjects/XOR Mixup/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/XOR Mixup/cmake-build-debug/CMakeFiles/rebuild_cache.dir

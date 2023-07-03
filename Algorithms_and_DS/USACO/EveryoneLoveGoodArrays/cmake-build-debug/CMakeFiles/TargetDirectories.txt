@@ -1,3 +1,0 @@
-/home/max/CLionProjects/EveryoneLoveGoodArrays/cmake-build-debug/CMakeFiles/EveryoneLoveGoodArrays.dir
-/home/max/CLionProjects/EveryoneLoveGoodArrays/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/EveryoneLoveGoodArrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir

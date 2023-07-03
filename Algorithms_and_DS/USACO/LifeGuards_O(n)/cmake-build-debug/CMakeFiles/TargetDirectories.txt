@@ -1,3 +1,0 @@
-/home/max/CLionProjects/LifeGuards_O(n)/cmake-build-debug/CMakeFiles/LifeGuards_O_n_.dir
-/home/max/CLionProjects/LifeGuards_O(n)/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/LifeGuards_O(n)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

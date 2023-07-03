@@ -1,3 +1,0 @@
-/home/max/CLionProjects/Field Reduction/cmake-build-debug/CMakeFiles/Field_Reduction.dir
-/home/max/CLionProjects/Field Reduction/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/Field Reduction/cmake-build-debug/CMakeFiles/rebuild_cache.dir

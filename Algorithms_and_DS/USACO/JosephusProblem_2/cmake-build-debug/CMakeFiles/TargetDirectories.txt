@@ -1,3 +1,0 @@
-/home/max/CLionProjects/JosephusProblem_2/cmake-build-debug/CMakeFiles/JosephusProblem_2.dir
-/home/max/CLionProjects/JosephusProblem_2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/JosephusProblem_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/home/max/CLionProjects/MountainView/cmake-build-debug/CMakeFiles/MountainView.dir
-/home/max/CLionProjects/MountainView/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/MountainView/cmake-build-debug/CMakeFiles/rebuild_cache.dir

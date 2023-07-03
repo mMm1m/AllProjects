@@ -1,3 +1,0 @@
-/home/max/CLionProjects/MowingTheField/cmake-build-debug/CMakeFiles/MowingTheField.dir
-/home/max/CLionProjects/MowingTheField/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/MowingTheField/cmake-build-debug/CMakeFiles/rebuild_cache.dir

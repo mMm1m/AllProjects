@@ -1,3 +1,0 @@
-/home/max/CLionProjects/StuckInARut_SILVER/cmake-build-debug/CMakeFiles/StuckInARut_SILVER.dir
-/home/max/CLionProjects/StuckInARut_SILVER/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/StuckInARut_SILVER/cmake-build-debug/CMakeFiles/rebuild_cache.dir

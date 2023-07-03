@@ -1,3 +1,0 @@
-/home/max/CLionProjects/IncreasingSubsequence/cmake-build-debug/CMakeFiles/IncreasingSubsequence.dir
-/home/max/CLionProjects/IncreasingSubsequence/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/IncreasingSubsequence/cmake-build-debug/CMakeFiles/rebuild_cache.dir

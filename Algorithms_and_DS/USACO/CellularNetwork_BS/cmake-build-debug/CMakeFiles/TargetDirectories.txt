@@ -1,3 +1,0 @@
-/home/max/CLionProjects/CellularNetwork_BS/cmake-build-debug/CMakeFiles/CellularNetwork_BS.dir
-/home/max/CLionProjects/CellularNetwork_BS/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/CellularNetwork_BS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

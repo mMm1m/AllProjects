@@ -1,3 +1,0 @@
-/home/max/CLionProjects/Prerequisites?/cmake-build-debug/CMakeFiles/Prerequisites_.dir
-/home/max/CLionProjects/Prerequisites?/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/Prerequisites?/cmake-build-debug/CMakeFiles/rebuild_cache.dir

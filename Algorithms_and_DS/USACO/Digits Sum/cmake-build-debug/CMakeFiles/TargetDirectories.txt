@@ -1,3 +1,0 @@
-/home/max/CLionProjects/Digits Sum/cmake-build-debug/CMakeFiles/Digits_Sum.dir
-/home/max/CLionProjects/Digits Sum/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/Digits Sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

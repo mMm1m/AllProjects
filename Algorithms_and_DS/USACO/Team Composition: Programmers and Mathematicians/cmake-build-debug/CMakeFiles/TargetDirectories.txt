@@ -1,3 +1,0 @@
-/home/max/CLionProjects/Team Composition: Programmers and Mathematicians/cmake-build-debug/CMakeFiles/Team_Composition__Programmers_and_Mathematicians.dir
-/home/max/CLionProjects/Team Composition: Programmers and Mathematicians/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/Team Composition: Programmers and Mathematicians/cmake-build-debug/CMakeFiles/rebuild_cache.dir

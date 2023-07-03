@@ -1,3 +1,0 @@
-/home/max/CLionProjects/Sleepy Cow Herding/cmake-build-debug/CMakeFiles/Sleepy_Cow_Herding.dir
-/home/max/CLionProjects/Sleepy Cow Herding/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/Sleepy Cow Herding/cmake-build-debug/CMakeFiles/rebuild_cache.dir

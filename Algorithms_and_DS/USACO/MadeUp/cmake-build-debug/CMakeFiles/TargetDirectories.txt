@@ -1,3 +1,0 @@
-/home/max/CLionProjects/MadeUp/cmake-build-debug/CMakeFiles/MadeUp.dir
-/home/max/CLionProjects/MadeUp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/MadeUp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

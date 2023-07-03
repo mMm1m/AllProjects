@@ -1,3 +1,0 @@
-/home/max/CLionProjects/TwentyFour/cmake-build-debug/CMakeFiles/TwentyFour.dir
-/home/max/CLionProjects/TwentyFour/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/CLionProjects/TwentyFour/cmake-build-debug/CMakeFiles/rebuild_cache.dir
