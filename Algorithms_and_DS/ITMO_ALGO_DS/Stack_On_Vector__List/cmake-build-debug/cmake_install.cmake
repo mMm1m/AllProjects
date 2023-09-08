@@ -1,4 +1,4 @@
-# Install script for directory: /home/max/All_Projects/Algorithms_and_DS/Stack_On_Vector__List
+# Install script for directory: /home/max/All_Projects/Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/max/All_Projects/Algorithms_and_DS/Stack_On_Vector__List/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/max/All_Projects/Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

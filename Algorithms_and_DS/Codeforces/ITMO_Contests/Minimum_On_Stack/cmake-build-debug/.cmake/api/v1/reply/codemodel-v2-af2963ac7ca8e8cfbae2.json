@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Minimum_On_Stack",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Minimum_On_Stack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Minimum_On_Stack-Debug-969baf18173ee45eac00.json",
+					"name" : "Minimum_On_Stack",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/max/All_Projects/Algorithms_and_DS/Codeforces/ITMO_Contests/Minimum_On_Stack/cmake-build-debug",
+		"source" : "/home/max/All_Projects/Algorithms_and_DS/Codeforces/ITMO_Contests/Minimum_On_Stack"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

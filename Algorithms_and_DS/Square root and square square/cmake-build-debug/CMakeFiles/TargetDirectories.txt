@@ -1,0 +1,3 @@
+/home/max/All_Projects/Algorithms_and_DS/Square root and square square/cmake-build-debug/CMakeFiles/Square_root_and_square_square.dir
+/home/max/All_Projects/Algorithms_and_DS/Square root and square square/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/max/All_Projects/Algorithms_and_DS/Square root and square square/cmake-build-debug/CMakeFiles/rebuild_cache.dir

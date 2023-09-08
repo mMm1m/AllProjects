@@ -1,0 +1,3 @@
+/home/max/All_Projects/Algorithms_and_DS/Fast_Search_In_Array/cmake-build-debug/CMakeFiles/Fast_Search_In_Array.dir
+/home/max/All_Projects/Algorithms_and_DS/Fast_Search_In_Array/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/max/All_Projects/Algorithms_and_DS/Fast_Search_In_Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

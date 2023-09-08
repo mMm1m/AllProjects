@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Balls" targetName="Balls" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4154b0e-cb98-4ba4-8ddf-50ab64201945" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Infix_Postfix/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Infix_Postfix/ExprPart.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Infix_Postfix/ExprPart.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Infix_Postfix/Functions.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Infix_Postfix/Functions.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Infix_Postfix/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ITMO_Java/Reverse/src/ReverseSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/.cmake/api/v1/reply/cache-v2-0652ce145460e6a8fc39.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-5842a0d0aee3b474579a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-f69a1f6129b76fe18dd7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/.cmake/api/v1/reply/index-2023-07-02T15-01-22-0876.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeFiles/Stack_On_Vector__List.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Simple C++ labs/Гольчанский_МД.(3530904 10003)_01.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Simple C++ labs/Гольчанский_МД.(3530904 10003)_01.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="46d1udry" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="2UHygJ7RN5cqfcETkYGFK9SUqSI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Balls" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Balls" TARGET_NAME="Balls" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Balls" RUN_TARGET_NAME="Balls">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4154b0e-cb98-4ba4-8ddf-50ab64201945" name="Changes" comment="" />
+      <created>1692610910047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692610910047</updated>
+      <workItem from="1692610911290" duration="7464000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+</project>

@@ -1,0 +1,25 @@
+# ninja log v5
+0	2422	1691500611805171017	CMakeFiles/Inversion_Counting.dir/main.cpp.o	4a885c1fdbba0f
+2423	2548	1691500611933172116	Inversion_Counting	52d7b435fa931f9a
+1	2189	1691500762909174714	CMakeFiles/Inversion_Counting.dir/main.cpp.o	4a885c1fdbba0f
+2189	2285	1691500763005174618	Inversion_Counting	52d7b435fa931f9a
+1	2041	1691500894685181815	CMakeFiles/Inversion_Counting.dir/main.cpp.o	4a885c1fdbba0f
+2041	2134	1691500894777181906	Inversion_Counting	52d7b435fa931f9a
+1	2074	1691501114017681191	CMakeFiles/Inversion_Counting.dir/main.cpp.o	4a885c1fdbba0f
+2074	2169	1691501114109681502	Inversion_Counting	52d7b435fa931f9a
+1	1990	1691501139213768960	CMakeFiles/Inversion_Counting.dir/main.cpp.o	4a885c1fdbba0f
+1990	2082	1691501139305769290	Inversion_Counting	52d7b435fa931f9a
+1	2029	1691501162429854463	CMakeFiles/Inversion_Counting.dir/main.cpp.o	4a885c1fdbba0f
+2030	2124	1691501162521854811	Inversion_Counting	52d7b435fa931f9a
+2	2068	1691501273830320505	CMakeFiles/Inversion_Counting.dir/main.cpp.o	4a885c1fdbba0f
+2068	2163	1691501273926320943	Inversion_Counting	52d7b435fa931f9a
+2	2035	1691501706668750985	CMakeFiles/Inversion_Counting.dir/main.cpp.o	4a885c1fdbba0f
+2035	2129	1691501706764751600	Inversion_Counting	52d7b435fa931f9a
+1	2194	1691501853781720735	CMakeFiles/Inversion_Counting.dir/main.cpp.o	4a885c1fdbba0f
+2194	2296	1691501853881721411	Inversion_Counting	52d7b435fa931f9a
+1	2029	1691501881741910444	CMakeFiles/Inversion_Counting.dir/main.cpp.o	4a885c1fdbba0f
+2029	2131	1691501881841911125	Inversion_Counting	52d7b435fa931f9a
+2	1847	1691693673188669499	CMakeFiles/Inversion_Counting.dir/main.cpp.o	4a885c1fdbba0f
+1847	1940	1691693673280670081	Inversion_Counting	52d7b435fa931f9a
+1	1775	1691693817577587433	CMakeFiles/Inversion_Counting.dir/main.cpp.o	4a885c1fdbba0f
+1775	1865	1691693817665587995	Inversion_Counting	52d7b435fa931f9a
