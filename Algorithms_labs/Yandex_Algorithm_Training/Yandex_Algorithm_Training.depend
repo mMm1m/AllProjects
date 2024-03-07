@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708467530 source:/home/max/All_Projects/Algorithms_labs/Yandex_Algorithm_Training/main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

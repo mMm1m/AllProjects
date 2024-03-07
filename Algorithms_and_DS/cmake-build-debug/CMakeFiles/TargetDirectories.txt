@@ -1,3 +1,0 @@
-/home/max/All_Projects/Algorithms_and_DS/cmake-build-debug/CMakeFiles/Algorithms_and_DS.dir
-/home/max/All_Projects/Algorithms_and_DS/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/All_Projects/Algorithms_and_DS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

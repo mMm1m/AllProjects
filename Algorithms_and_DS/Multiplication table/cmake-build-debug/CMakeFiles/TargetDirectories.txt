@@ -1,3 +1,0 @@
-/home/max/All_Projects/Algorithms_and_DS/Multiplication table/cmake-build-debug/CMakeFiles/Multiplication_table.dir
-/home/max/All_Projects/Algorithms_and_DS/Multiplication table/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/All_Projects/Algorithms_and_DS/Multiplication table/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1707907160 source:/home/max/All_Projects/Algorithms_labs/StackOnVector/vector.c
+	<stdio.h>
+	<malloc.h>
+	"vector.h"
+
+1707907603 source:/home/max/All_Projects/Algorithms_labs/StackOnVector/main.c
+	<stdio.h>
+	"vector.h"
+
+1707341965 source:/home/max/All_Projects/Algorithms_labs/StackOnVector/stack.c
+	<stdio.h>
+	"vector.h"
+
+1707341879 /home/max/All_Projects/Algorithms_labs/StackOnVector/vector.h
+
+1707344704 source:/home/max/All_Projects/Algorithms_labs/StackOnVector/list.c
+
+1707342481 /home/max/All_Projects/Algorithms_labs/StackOnVector/stack.h
+
+1707904853 source:/home/max/All_Projects/Algorithms_labs/StackOnVector/stack_on_vector.c
+	<stdio.h>
+	"vector.h"
+	"stack.h"
+
+1707906639 source:/home/max/All_Projects/Algorithms_labs/StackOnVector/stack_on_list.c
+	"node.h"
+	<stdio.h>
+	<stdlib.h>
+
+1707907160 /home/max/All_Projects/Algorithms_labs/StackOnVector/node.h
+	<stdio.h>
+	<stdlib.h>
+
+1707437198 source:/home/max/All_Projects/Algorithms_labs/StackOnVector/node.c
+	<stdio.h>
+	<stdlib.h>
+	"node.h"
+
+1707904072 source:/home/max/All_Projects/Algorithms_labs/StackOnVector/queue_on_list.c
+
+1707904873 /home/max/All_Projects/Algorithms_labs/StackOnVector/queue.h
+	"vector.h"
+
+1707904853 source:/home/max/All_Projects/Algorithms_labs/StackOnVector/queue_on_vector.c
+	<stdio.h>
+	"queue.h"
+	"vector.h"
+
+1707909949 source:/home/max/All_Projects/Algorithms_labs/QueueStackOnVectorList/stack_on_vector.c
+	<stdio.h>
+	<stdlib.h>
+	"vector.h"
+	"stack.h"
+
+1707910246 /home/max/All_Projects/Algorithms_labs/QueueStackOnVectorList/vector.h
+
+1707910190 /home/max/All_Projects/Algorithms_labs/QueueStackOnVectorList/stack.h
+
+1707908933 source:/home/max/All_Projects/Algorithms_labs/QueueStackOnVectorList/main.c
+	<stdio.h>
+	<stdlib.h>
+	"vector.h"
+	"queue.h"
+
+1707910147 /home/max/All_Projects/Algorithms_labs/QueueStackOnVectorList/queue.h
+	"vector.h"
+
+1707909876 source:/home/max/All_Projects/Algorithms_labs/QueueStackOnVectorList/queue_on_vector.c
+	<stdio.h>
+	"queue.h"
+	"vector.h"
+
+1707908930 source:/home/max/All_Projects/Algorithms_labs/QueueStackOnVectorList/stack_on_list.c
+	"node.h"
+	<stdio.h>
+	<stdlib.h>
+
+1707908931 /home/max/All_Projects/Algorithms_labs/QueueStackOnVectorList/node.h
+	<stdio.h>
+	<stdlib.h>
+
+1707910025 source:/home/max/All_Projects/Algorithms_labs/QueueStackOnVectorList/vector.c
+	<stdio.h>
+	<malloc.h>
+	"vector.h"
+
+1707910132 source:/home/max/All_Projects/Algorithms_labs/QueueStackOnVectorList/queue.c
+	<stddef.h>
+	"vector.h"
+	"queue.h"
+

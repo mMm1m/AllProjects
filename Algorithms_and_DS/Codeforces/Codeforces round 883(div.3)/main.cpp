@@ -2,7 +2,7 @@
 
 // A
 
-/*void A()
+void A()
 {
   int t; std::cin >> t;
   for(int i = 0; i < t; ++i)
@@ -24,9 +24,9 @@
     }
     std::cout << size << '\n';
   }
-}*/
+}
 
-/*void B()
+void B()
 {
   int t; std::cin >> t;
   for(int i = 0; i < t; ++i)
@@ -67,9 +67,9 @@
     }
     if(counter == 0) std::cout << "DRAW" << '\n';
   }
-}*/
+}
 
-/*void C()
+void C()
 {
   int t; std::cin >> t;
   for(int i = 0; i < t; ++i)
@@ -113,7 +113,7 @@
     }
     std::cout << place << '\n';
   }
-}*/
+}
 
 void D()
 {
@@ -145,6 +145,4 @@ void D()
 }
 
 int main()
-{
-  D();
-}
+{}

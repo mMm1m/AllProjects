@@ -1,3 +1,0 @@
-/home/max/All_Projects/Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeFiles/Stack_On_Vector__List.dir
-/home/max/All_Projects/Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/All_Projects/Algorithms_and_DS/ITMO_ALGO_DS/Stack_On_Vector__List/cmake-build-debug/CMakeFiles/rebuild_cache.dir

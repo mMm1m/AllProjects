@@ -1,3 +1,0 @@
-/home/max/All_Projects/Algorithms_and_DS/A log of firewood/cmake-build-debug/CMakeFiles/A_log_of_firewood.dir
-/home/max/All_Projects/Algorithms_and_DS/A log of firewood/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/max/All_Projects/Algorithms_and_DS/A log of firewood/cmake-build-debug/CMakeFiles/rebuild_cache.dir
