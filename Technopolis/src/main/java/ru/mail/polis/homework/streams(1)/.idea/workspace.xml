@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2be59323-89bb-4c5e-aaef-4dbd24512f82" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../analyzer/NegativeTextAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyzer/SpamAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analyzer/TextFilterManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections/structure/CustomArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections/structure/CustomDictionaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections/structure/CustomStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections/structure/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections/structure/MaxStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections/structure/SearchInTheShredderListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objects/CustomArrayWrapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objects/CustomLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objects/MaxTaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objects/RepeatingCharactersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objects/StringTasksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop/vet/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop/vet/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple/DoubleAdvancedTaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple/DoubleTaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple/HomeworkTaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple/IntegerAdvancedTaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple/IntegerTaskTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analyzer/FilterType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../analyzer/FilterType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analyzer/TextAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../analyzer/TextAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analyzer/TextFilterManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../analyzer/TextFilterManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/PopularMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collections/PopularMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/mail/Mail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collections/mail/Mail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/mail/MailMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collections/mail/MailMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/mail/MailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collections/mail/MailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/mail/Salary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collections/mail/Salary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/streams/SimpleStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collections/streams/SimpleStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/streams/WordFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collections/streams/WordFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/streams/account/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collections/streams/account/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/streams/account/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collections/streams/account/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/streams/account/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collections/streams/account/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/structure/CustomArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collections/structure/CustomArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/structure/CustomDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collections/structure/CustomDictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/structure/MaxStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collections/structure/MaxStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/structure/SearchInTheShredderList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collections/structure/SearchInTheShredderList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/structure/ValidatorForParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collections/structure/ValidatorForParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/SimpleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/SimpleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../objects/CustomArrayWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../objects/CustomArrayWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../objects/CustomLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../objects/CustomLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../objects/MaxTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../objects/MaxTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../objects/RepeatingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/../objects/RepeatingCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../objects/StringTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../objects/StringTasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/adapter/JsonCsvDataAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/adapter/JsonCsvDataAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/vet/GeneratorAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/vet/GeneratorAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../processor/ProcessingStage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../processor/ProcessingStage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../processor/TextProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../processor/TextProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../processor/TextProcessorManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../processor/TextProcessorManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../retake/first/Simple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../retake/first/SimpleFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple/DoubleAdvancedTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../simple/DoubleAdvancedTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple/DoubleTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../simple/DoubleTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple/HomeworkTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../simple/HomeworkTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple/IntegerAdvancedTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../simple/IntegerAdvancedTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple/IntegerTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../simple/IntegerTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple/MainTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../simple/MainTask.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2UzIK6FTnvUhGWljWVUlCc1VUsy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/max/All_Projects/Technopolis/src/main/java/ru/mail/polis/homework/exception",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2be59323-89bb-4c5e-aaef-4dbd24512f82" name="Changes" comment="" />
+      <created>1693935914567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693935914567</updated>
+      <workItem from="1693935915604" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

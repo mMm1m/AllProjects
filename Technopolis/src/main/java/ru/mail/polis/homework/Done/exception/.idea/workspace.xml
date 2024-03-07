@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c06d2f2d-7799-41d1-9b25-f87ff01c643c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../analyzer/FilterType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analyzer/TextAnalyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analyzer/TextFilterManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/PopularMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/mail/Mail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/mail/MailMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/mail/MailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/mail/Salary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/streams/SimpleStreams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/streams/WordFrequency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/streams/account/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/streams/account/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/streams/account/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/structure/CustomArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/structure/CustomDictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/structure/MaxStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/structure/SearchInTheShredderList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/structure/ValidatorForParentheses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RobotConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/RobotConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RobotConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/RobotConnectionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RobotRemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/RobotRemoteControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/SimpleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/SimpleFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../objects/CustomArrayWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../objects/CustomLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../objects/MaxTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../objects/RepeatingCharacters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../objects/StringTasks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/adapter/CsvData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/adapter/JsonCsvDataAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/adapter/ProductPriceParsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/vet/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/vet/GeneratorAnimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/vet/MoveType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/vet/Pet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/vet/Veterinary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/vet/WildAnimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../processor/ProcessingStage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../processor/TextProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../processor/TextProcessorManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../retake/first/Simple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../retake/first/SimpleFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple/DoubleAdvancedTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple/DoubleTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple/HomeworkTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple/IntegerAdvancedTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple/IntegerTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple/MainTask.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2UzIPrDRDM9gVgHf70rtwQfxiJy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/max/All_Projects/Technopolis/src/main/java/ru/mail/polis/homework/exception",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c06d2f2d-7799-41d1-9b25-f87ff01c643c" name="Changes" comment="" />
+      <created>1693935960579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693935960579</updated>
+      <workItem from="1693935961611" duration="5710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
